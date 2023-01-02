@@ -1,0 +1,15 @@
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\bin\Debug\net7.0\BookRequestSystem.exe
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\bin\Debug\net7.0\BookRequestSystem.deps.json
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\bin\Debug\net7.0\BookRequestSystem.runtimeconfig.json
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\bin\Debug\net7.0\BookRequestSystem.dll
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\bin\Debug\net7.0\BookRequestSystem.pdb
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.csproj.AssemblyReference.cache
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.AssemblyInfoInputs.cache
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.AssemblyInfo.cs
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.csproj.CoreCompileInputs.cache
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.dll
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\refint\BookRequestSystem.dll
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.pdb
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\BookRequestSystem.genruntimeconfig.cache
+C:\Users\ICasanova\source\repos\BookRequestSystem\BookRequestSystem\obj\Debug\net7.0\ref\BookRequestSystem.dll
